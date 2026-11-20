@@ -1,6 +1,6 @@
 # mpg123 release snapshots
 
-The files of the release archives of [mpg123](https://www.mpg123.de/), one commit per release, exactly as published. This is not a fork and not a mirror. mpg123 is developed and maintained by its authors at https://www.mpg123.de/: nothing is developed or maintained here, and this repository is not affiliated with the project. It only keeps snapshots of the releases.
+The files of the release archives of [mpg123](https://www.mpg123.de/), one commit per release, exactly as published. This is not a fork and not a mirror. mpg123 is developed and maintained by Thomas Orgis and its contributors at https://www.mpg123.de/: nothing is developed or maintained here, and this repository is not affiliated with the project. It only keeps snapshots of the releases.
 
 mpg123 is a fast MPEG audio decoder and player. It is the work of Thomas Orgis, who maintains it and signs the releases, of its original author Michael Hipp, and of the many people credited in `AUTHORS`. It is under the LGPL 2.1 (`COPYING`). Bug reports and contributions belong to the project: https://www.mpg123.de/contact.shtml.
 
